@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/act.4-coins/static/js/main.58439d11.js",
+    "main.js": "/act.4-coins/static/js/main.acb77e0a.js",
     "index.html": "/act.4-coins/index.html",
-    "main.58439d11.js.map": "/act.4-coins/static/js/main.58439d11.js.map"
+    "main.acb77e0a.js.map": "/act.4-coins/static/js/main.acb77e0a.js.map"
   },
   "entrypoints": [
-    "static/js/main.58439d11.js"
+    "static/js/main.acb77e0a.js"
   ]
 }
